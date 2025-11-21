@@ -6,4 +6,4 @@
 - Checks code from repository
 - Sets up python environment
 - Installs dependencies (Checks requirements file)
-- Runs tests
+- Runs tests from the test folder as written (unit test cases)
